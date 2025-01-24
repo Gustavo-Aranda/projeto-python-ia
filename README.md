@@ -14,13 +14,13 @@ O projeto em Jupyter possibilita que o passo a passo seja mais organizado e ajud
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/Gustavo-Aranda/projeto-python-ia
 ```
 
 Entre no diretório do projeto
 
 ```bash
-  cd my-project
+  cd projeto-python-ia
 ```
 
 Instale as dependências
